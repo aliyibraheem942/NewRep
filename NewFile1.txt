@@ -2,3 +2,4 @@ Kia type:
 Cerato
 Optima
 Sportage
+Carenz
